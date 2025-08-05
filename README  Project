@@ -1,0 +1,22 @@
+#  Genome Mutation Analysis (IIIT-H AI/ML - Module 2 Project)
+
+This project visualizes and interprets SARS-CoV-2 genome data using:
+- 3-mer mutation extraction
+- Frequency vectorization
+- Dimensionality reduction (PCA and t-SNE)
+
+##  Files
+- `INDIA_685.csv`: Raw genome metadata
+- `Genome_Project.ipynb`: Main notebook
+- `Genome_Project.pdf`: Exported version
+- `README.md`: This file
+
+# Visualizations
+PCA and t-SNE plots help uncover mutation patterns across genomes.
+
+##  Tools Used
+- Python
+- Pandas, NumPy
+- sklearn (PCA, t-SNE)
+- Matplotlib
+
